@@ -1,0 +1,7 @@
+bs4
+networkx
+requests
+pymongo
+django
+django-heroku
+gunicorn
